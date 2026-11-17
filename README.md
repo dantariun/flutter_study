@@ -1,16 +1,19 @@
-# toonflix
+# flutter_study
 
-A new Flutter project.
+Flutter 학습용 프로젝트. 포모도로 타이머와 환율 카드 위젯을 구현한다.
 
-## Getting Started
+## Stack
 
-This project is a starting point for a Flutter application.
+- Flutter · Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 포모도로 타이머
+- 환율 카드 UI 위젯
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
